@@ -8,5 +8,6 @@ export const PATH = {
     ROOT: '/',
     EMPTY: '',
     
-    LOGIN: 'login'
+    LOGIN: 'login',
+    DASHBOARD: 'dashboard'
 }
